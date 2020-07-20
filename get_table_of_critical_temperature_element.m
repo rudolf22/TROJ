@@ -1,0 +1,4 @@
+function table_of_critical_temperature_element = get_table_of_critical_temperature_element()
+load table_of_critical_temperature_element
+
+end

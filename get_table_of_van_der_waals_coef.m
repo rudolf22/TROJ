@@ -1,0 +1,3 @@
+function table_of_van_der_waals_coef = get_table_of_van_der_waals_coef()
+load table_of_van_der_waals_coef
+end

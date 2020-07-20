@@ -1,0 +1,1370 @@
+[
+  {
+    "Name": "Aluminum trichloride",
+    "Formula": "AlCl3",
+    "a": 42.63,
+    "b": 0.245
+  },
+  {
+    "Name": "Ammonia",
+    "Formula": "NH3",
+    "a": 4.225,
+    "b": 0.03713
+  },
+  {
+    "Name": "Ammonium chloride",
+    "Formula": "NH4Cl",
+    "a": 2.38,
+    "b": 0.00734
+  },
+  {
+    "Name": "Argon",
+    "Formula": "Ar",
+    "a": 1.355,
+    "b": 0.03201
+  },
+  {
+    "Name": "Boron trichloride",
+    "Formula": "BCl3",
+    "a": 15.6,
+    "b": 0.1222
+  },
+  {
+    "Name": "Boron trifluoride",
+    "Formula": "BF3",
+    "a": 3.98,
+    "b": 0.05443
+  },
+  {
+    "Name": "Diborane",
+    "Formula": "B2H6",
+    "a": 6.048,
+    "b": 0.07437
+  },
+  {
+    "Name": "Bromine",
+    "Formula": "Br2",
+    "a": 9.75,
+    "b": 0.0591
+  },
+  {
+    "Name": "Perchloryl fluoride",
+    "Formula": "ClFO2",
+    "a": 7.371,
+    "b": 0.0713
+  },
+  {
+    "Name": "Chlorine pentafluoride",
+    "Formula": "ClF5",
+    "a": 9.58,
+    "b": 0.08204
+  },
+  {
+    "Name": "Phosphonium chloride",
+    "Formula": "ClH4P",
+    "a": 4.111,
+    "b": 0.04545
+  },
+  {
+    "Name": "Chlorine",
+    "Formula": "Cl2",
+    "a": 6.343,
+    "b": 0.05422
+  },
+  {
+    "Name": "Trichlorofluorosilane",
+    "Formula": "Cl3FSi",
+    "a": 15.67,
+    "b": 0.1273
+  },
+  {
+    "Name": "Fluorine",
+    "Formula": "F2",
+    "a": 1.171,
+    "b": 0.02896
+  },
+  {
+    "Name": "Germanium tetrachloride",
+    "Formula": "GeCl4",
+    "a": 23.12,
+    "b": 0.1489
+  },
+  {
+    "Name": "Nitrogen trifluoride",
+    "Formula": "F3N",
+    "a": 3.58,
+    "b": 0.05453
+  },
+  {
+    "Name": "Phosphorus trifluoride",
+    "Formula": "F3P",
+    "a": 4.954,
+    "b": 0.0651
+  },
+  {
+    "Name": "Tetrafluorohydrazine",
+    "Formula": "F4N2",
+    "a": 7.426,
+    "b": 0.08564
+  },
+  {
+    "Name": "Germane",
+    "Formula": "GeH4",
+    "a": 5.743,
+    "b": 0.06555
+  },
+  {
+    "Name": "Helium",
+    "Formula": "He",
+    "a": 0.0346,
+    "b": 0.0238
+  },
+  {
+    "Name": "Hydrogen bromide",
+    "Formula": "HBr",
+    "a": 4.5,
+    "b": 0.04415
+  },
+  {
+    "Name": "Hydrogen chloride",
+    "Formula": "HCl",
+    "a": 3.7,
+    "b": 0.04061
+  },
+  {
+    "Name": "Hydrogen cyanide",
+    "Formula": "HCN",
+    "a": 11.29,
+    "b": 0.08806
+  },
+  {
+    "Name": "Hydrogen fluoride",
+    "Formula": "HF",
+    "a": 9.565,
+    "b": 0.0739
+  },
+  {
+    "Name": "Hydrogen iodide",
+    "Formula": "HI",
+    "a": 6.309,
+    "b": 0.05303
+  },
+  {
+    "Name": "Hydrogen",
+    "Formula": "H2",
+    "a": 0.2453,
+    "b": 0.02651
+  },
+  {
+    "Name": "Water",
+    "Formula": "H2O",
+    "a": 5.537,
+    "b": 0.03049
+  },
+  {
+    "Name": "Hydrogen sulphide",
+    "Formula": "H2S",
+    "a": 4.544,
+    "b": 0.04339
+  },
+  {
+    "Name": "Hydrogen selenide",
+    "Formula": "H2Se",
+    "a": 5.523,
+    "b": 0.0479
+  },
+  {
+    "Name": "Krypton",
+    "Formula": "Kr",
+    "a": 2.325,
+    "b": 0.0396
+  },
+  {
+    "Name": "Silane",
+    "Formula": "SiH4",
+    "a": 4.38,
+    "b": 0.0579
+  },
+  {
+    "Name": "Silicon tetrachloride",
+    "Formula": "SiCl4",
+    "a": 20.96,
+    "b": 0.147
+  },
+  {
+    "Name": "Silicon tetrafluoride",
+    "Formula": "SiF4",
+    "a": 5.259,
+    "b": 0.07236
+  },
+  {
+    "Name": "Titanium(IV) chloride",
+    "Formula": "TiCl4",
+    "a": 25.47,
+    "b": 0.1423
+  },
+  {
+    "Name": "Mercury",
+    "Formula": "Hg",
+    "a": 5.193,
+    "b": 0.01057
+  },
+  {
+    "Name": "Nitric oxide",
+    "Formula": "NO",
+    "a": 1.46,
+    "b": 0.0289
+  },
+  {
+    "Name": "Nitrogen dioxide",
+    "Formula": "NO2",
+    "a": 5.36,
+    "b": 0.0443
+  },
+  {
+    "Name": "Nitrogen",
+    "Formula": "N2",
+    "a": 1.37,
+    "b": 0.0387
+  },
+  {
+    "Name": "Nitrous oxide",
+    "Formula": "N2O",
+    "a": 3.852,
+    "b": 0.04435
+  },
+  {
+    "Name": "Hydrazine",
+    "Formula": "N2H4",
+    "a": 8.46,
+    "b": 0.0462
+  },
+  {
+    "Name": "Neon",
+    "Formula": "Ne",
+    "a": 0.208,
+    "b": 0.01672
+  },
+  {
+    "Name": "Oxygen",
+    "Formula": "O2",
+    "a": 1.382,
+    "b": 0.03186
+  },
+  {
+    "Name": "Ozone",
+    "Formula": "O3",
+    "a": 3.57,
+    "b": 0.0487
+  },
+  {
+    "Name": "Phosphorus",
+    "Formula": "P",
+    "a": 53.6,
+    "b": 0.157
+  },
+  {
+    "Name": "Phosphine",
+    "Formula": "PH3",
+    "a": 4.696,
+    "b": 0.05157
+  },
+  {
+    "Name": "Radon",
+    "Formula": "Rn",
+    "a": 6.601,
+    "b": 0.06239
+  },
+  {
+    "Name": "Stannic chloride",
+    "Formula": "SnCl4",
+    "a": 27.25,
+    "b": 0.1641
+  },
+  {
+    "Name": "Sulphur",
+    "Formula": "S2",
+    "a": 24.3,
+    "b": 0.066
+  },
+  {
+    "Name": "Sulphur dioxide",
+    "Formula": "SO2",
+    "a": 6.865,
+    "b": 0.05679
+  },
+  {
+    "Name": "Sulphur hexafluoride",
+    "Formula": "SF6",
+    "a": 7.857,
+    "b": 0.08786
+  },
+  {
+    "Name": "Selenium",
+    "Formula": "Se",
+    "a": 33.4,
+    "b": 0.0675
+  },
+  {
+    "Name": "Uranium(VI) fluoride",
+    "Formula": "UF6",
+    "a": 16.01,
+    "b": 0.1128
+  },
+  {
+    "Name": "Tungsten(VI) fluoride",
+    "Formula": "WF6",
+    "a": 13.25,
+    "b": 0.1063
+  },
+  {
+    "Name": "Xenon",
+    "Formula": "Xe",
+    "a": 4.192,
+    "b": 0.05156
+  },
+  {
+    "Name": "Xenon difluoride",
+    "Formula": "XeF2",
+    "a": 12.46,
+    "b": 0.07037
+  },
+  {
+    "Name": "Xenon tetrafluoride",
+    "Formula": "XeF4",
+    "a": 15.52,
+    "b": 0.09035
+  },
+  {
+    "Name": "Chlorotrifluoromethane",
+    "Formula": "CClF3",
+    "a": 6.873,
+    "b": 0.0811
+  },
+  {
+    "Name": "Trichlorofluoromethane",
+    "Formula": "CCl3F",
+    "a": 14.68,
+    "b": 0.1111
+  },
+  {
+    "Name": "Tetrachloromethane",
+    "Formula": "CCl4",
+    "a": 20.01,
+    "b": 0.1281
+  },
+  {
+    "Name": "Tetrafluoromethane",
+    "Formula": "CF4",
+    "a": 4.04,
+    "b": 0.06325
+  },
+  {
+    "Name": "Carbon monoxide",
+    "Formula": "CO",
+    "a": 1.472,
+    "b": 0.03948
+  },
+  {
+    "Name": "Carbon oxysulphide",
+    "Formula": "COS",
+    "a": 6.975,
+    "b": 0.06628
+  },
+  {
+    "Name": "Carbon dioxide",
+    "Formula": "CO2",
+    "a": 3.658,
+    "b": 0.04286
+  },
+  {
+    "Name": "Carbon disulphide",
+    "Formula": "CS2",
+    "a": 11.25,
+    "b": 0.07262
+  },
+  {
+    "Name": "Trichloromethane",
+    "Formula": "CHCl3",
+    "a": 15.34,
+    "b": 0.1019
+  },
+  {
+    "Name": "Trifluoromethane",
+    "Formula": "CHF3",
+    "a": 5.378,
+    "b": 0.06403
+  },
+  {
+    "Name": "Dichloromethane",
+    "Formula": "CH2Cl2",
+    "a": 12.44,
+    "b": 0.08689
+  },
+  {
+    "Name": "Difluoromethane",
+    "Formula": "CH2F2",
+    "a": 6.184,
+    "b": 0.06268
+  },
+  {
+    "Name": "Chloromethane",
+    "Formula": "CH3Cl",
+    "a": 7.566,
+    "b": 0.06477
+  },
+  {
+    "Name": "Fluoromethane",
+    "Formula": "CH3F",
+    "a": 5.009,
+    "b": 0.05617
+  },
+  {
+    "Name": "Nitromethane",
+    "Formula": "NH3NO2",
+    "a": 17.18,
+    "b": 0.1041
+  },
+  {
+    "Name": "Methane",
+    "Formula": "CH4",
+    "a": 2.3,
+    "b": 0.04301
+  },
+  {
+    "Name": "Methanol",
+    "Formula": "CH3OH",
+    "a": 9.472,
+    "b": 0.06584
+  },
+  {
+    "Name": "Methanethiol",
+    "Formula": "CH3SH",
+    "a": 8.911,
+    "b": 0.06756
+  },
+  {
+    "Name": "Methylamine",
+    "Formula": "CH3NH2",
+    "a": 7.106,
+    "b": 0.05879
+  },
+  {
+    "Name": "1,1,2-Trichlorotrifluoroethane",
+    "Formula": "C2Cl2F3",
+    "a": 20.25,
+    "b": 0.1481
+  },
+  {
+    "Name": "Tetrafluoroethylene",
+    "Formula": "C2F4",
+    "a": 6.954,
+    "b": 0.08085
+  },
+  {
+    "Name": "Cyanogen",
+    "Formula": "C2N2",
+    "a": 7.803,
+    "b": 0.6952
+  },
+  {
+    "Name": "Acetylene",
+    "Formula": "C2H2",
+    "a": 4.516,
+    "b": 0.0522
+  },
+  {
+    "Name": "1,1-Difluoroethylene",
+    "Formula": "C2H2F2",
+    "a": 6,
+    "b": 0.07058
+  },
+  {
+    "Name": "1,1,1-Trichloroethane",
+    "Formula": "C2H3Cl3",
+    "a": 20.15,
+    "b": 0.1317
+  },
+  {
+    "Name": "Fluroethylene",
+    "Formula": "C2H3F",
+    "a": 5.984,
+    "b": 0.06504
+  },
+  {
+    "Name": "1,1,1-Trifluoroethane",
+    "Formula": "C2H3F3",
+    "a": 9.302,
+    "b": 0.09572
+  },
+  {
+    "Name": "Acetonitrile",
+    "Formula": "C2H3N",
+    "a": 17.89,
+    "b": 0.1169
+  },
+  {
+    "Name": "Ethylene",
+    "Formula": "C2H4",
+    "a": 4.612,
+    "b": 0.05821
+  },
+  {
+    "Name": "1,1-Dichloroethane",
+    "Formula": "C2H4Cl2",
+    "a": 15.73,
+    "b": 0.1072
+  },
+  {
+    "Name": "1,2-Dichloroethane",
+    "Formula": "C2H4Cl2",
+    "a": 17,
+    "b": 0.108
+  },
+  {
+    "Name": "Ethylene oxide",
+    "Formula": "C2H4O",
+    "a": 8.922,
+    "b": 0.06779
+  },
+  {
+    "Name": "Acetic acid",
+    "Formula": "CH3COOH",
+    "a": 17.71,
+    "b": 0.1065
+  },
+  {
+    "Name": "Methyl formate",
+    "Formula": "C2H4O2",
+    "a": 11.54,
+    "b": 0.08442
+  },
+  {
+    "Name": "Bromoethane",
+    "Formula": "C2H5Br",
+    "a": 11.89,
+    "b": 0.08406
+  },
+  {
+    "Name": "Chloroethane",
+    "Formula": "C2H5Cl",
+    "a": 11.7,
+    "b": 0.09
+  },
+  {
+    "Name": "Fluoroethane",
+    "Formula": "C2H5F",
+    "a": 8.17,
+    "b": 0.07758
+  },
+  {
+    "Name": "Ethane",
+    "Formula": "C2H6",
+    "a": 5.57,
+    "b": 0.06499
+  },
+  {
+    "Name": "Dimethyl ether",
+    "Formula": "C2H6O",
+    "a": 8.69,
+    "b": 0.07742
+  },
+  {
+    "Name": "Ethanol",
+    "Formula": "C2H5OH",
+    "a": 12.56,
+    "b": 0.0871
+  },
+  {
+    "Name": "Dimethyl sulphide",
+    "Formula": "C2H5SH",
+    "a": 13.34,
+    "b": 0.09453
+  },
+  {
+    "Name": "Ethanethiol",
+    "Formula": "C2H5SH",
+    "a": 13.23,
+    "b": 0.09447
+  },
+  {
+    "Name": "Dimethylamine",
+    "Formula": "C2H7N",
+    "a": 10.44,
+    "b": 0.0851
+  },
+  {
+    "Name": "Ethylamine",
+    "Formula": "C2H7N",
+    "a": 10.79,
+    "b": 0.08433
+  },
+  {
+    "Name": "Perfluoropropane",
+    "Formula": "C3F8",
+    "a": 12.96,
+    "b": 0.1338
+  },
+  {
+    "Name": "Propanenitrile",
+    "Formula": "C3H5N",
+    "a": 21.57,
+    "b": 0.1369
+  },
+  {
+    "Name": "Propene",
+    "Formula": "C3H6",
+    "a": 8.438,
+    "b": 0.08242
+  },
+  {
+    "Name": "Cyclopropane",
+    "Formula": "C3H6",
+    "a": 8.293,
+    "b": 0.0742
+  },
+  {
+    "Name": "Acetone",
+    "Formula": "C3H6O",
+    "a": 16.02,
+    "b": 0.1124
+  },
+  {
+    "Name": "Propanal",
+    "Formula": "C3H6O",
+    "a": 14.08,
+    "b": 0.09947
+  },
+  {
+    "Name": "Ethyl formate",
+    "Formula": "C3H6O2",
+    "a": 15.91,
+    "b": 0.1115
+  },
+  {
+    "Name": "Methyl acetate",
+    "Formula": "C3H6O2",
+    "a": 15.75,
+    "b": 0.1108
+  },
+  {
+    "Name": "Propanoic acid",
+    "Formula": "C3H6O2",
+    "a": 23.49,
+    "b": 0.1386
+  },
+  {
+    "Name": "1-Chloropropane",
+    "Formula": "C3H7Cl",
+    "a": 16.11,
+    "b": "0.1141`"
+  },
+  {
+    "Name": "Propane",
+    "Formula": "C3H8",
+    "a": 9.385,
+    "b": 0.09044
+  },
+  {
+    "Name": "1-Propanol",
+    "Formula": "C3H8O",
+    "a": 16.26,
+    "b": 0.108
+  },
+  {
+    "Name": "2-Propanol",
+    "Formula": "C3H8O",
+    "a": 15.82,
+    "b": 0.1109
+  },
+  {
+    "Name": "Ethyl methyl ether",
+    "Formula": "C3H8O",
+    "a": 12.7,
+    "b": 0.1034
+  },
+  {
+    "Name": "Ethyl methyl sulphide",
+    "Formula": "C3H8S",
+    "a": 19.45,
+    "b": 0.13
+  },
+  {
+    "Name": "Propylamine",
+    "Formula": "C3H9N",
+    "a": 15.26,
+    "b": 0.1094
+  },
+  {
+    "Name": "Trimethylamine",
+    "Formula": "C3H9N",
+    "a": 13.37,
+    "b": 0.1101
+  },
+  {
+    "Name": "Furan",
+    "Formula": "C4H4O",
+    "a": 12.74,
+    "b": 0.0926
+  },
+  {
+    "Name": "Thiophene",
+    "Formula": "C4H4S",
+    "a": 17.21,
+    "b": 0.1058
+  },
+  {
+    "Name": "Pyrrole",
+    "Formula": "C4H4N",
+    "a": 18.82,
+    "b": 0.1049
+  },
+  {
+    "Name": "1,3-Butadiene",
+    "Formula": "C4H6",
+    "a": 12.17,
+    "b": 0.102
+  },
+  {
+    "Name": "Acetic anhydride",
+    "Formula": "C4H6O3",
+    "a": 26.8,
+    "b": 0.157
+  },
+  {
+    "Name": "Butanenitrile",
+    "Formula": "C4H7N",
+    "a": 25.76,
+    "b": 0.1568
+  },
+  {
+    "Name": "1-Butene",
+    "Formula": "C4H8",
+    "a": 12.76,
+    "b": 0.1084
+  },
+  {
+    "Name": "Cyclobutane",
+    "Formula": "C4H8",
+    "a": 12.39,
+    "b": 0.096
+  },
+  {
+    "Name": "2-Butanone",
+    "Formula": "C4H8O",
+    "a": 19.97,
+    "b": 0.1326
+  },
+  {
+    "Name": "Tetrahydrofuran",
+    "Formula": "C4H8O",
+    "a": 16.39,
+    "b": 0.1082
+  },
+  {
+    "Name": "1,4-Dioxane",
+    "Formula": "C4H8O2",
+    "a": 19.29,
+    "b": 0.1171
+  },
+  {
+    "Name": "Ethyl acetate",
+    "Formula": "C4H8O2",
+    "a": 20.57,
+    "b": 0.1401
+  },
+  {
+    "Name": "Methyl propanoate",
+    "Formula": "C4H8O2",
+    "a": 20.51,
+    "b": 0.1377
+  },
+  {
+    "Name": "Propyl formate",
+    "Formula": "C4H8O2",
+    "a": 20.79,
+    "b": 0.1377
+  },
+  {
+    "Name": "Butanoic acid",
+    "Formula": "C4H8O2",
+    "a": 28.18,
+    "b": 0.1609
+  },
+  {
+    "Name": "Pyrrolidine",
+    "Formula": "C4H9N",
+    "a": 16.84,
+    "b": 0.1056
+  },
+  {
+    "Name": "Butane",
+    "Formula": "C4H10",
+    "a": 13.93,
+    "b": 0.1168
+  },
+  {
+    "Name": "Isobutane",
+    "Formula": "C4H10",
+    "a": 13.36,
+    "b": 0.1168
+  },
+  {
+    "Name": "1-Butanol",
+    "Formula": "C4H10O",
+    "a": 20.9,
+    "b": 0.1323
+  },
+  {
+    "Name": "2-Methyl-2-propanol",
+    "Formula": "C4H10O",
+    "a": 18.81,
+    "b": 0.1324
+  },
+  {
+    "Name": "2-Methyl-1-propanol",
+    "Formula": "C4H10O",
+    "a": 20.35,
+    "b": 0.1324
+  },
+  {
+    "Name": "Diethyl ether",
+    "Formula": "C4H10O",
+    "a": 17.46,
+    "b": 0.1333
+  },
+  {
+    "Name": "Diethyl sulphide",
+    "Formula": "C4H10S",
+    "a": 22.85,
+    "b": 0.1462
+  },
+  {
+    "Name": "Butylamine",
+    "Formula": "C4H11N",
+    "a": 19.41,
+    "b": 0.1301
+  },
+  {
+    "Name": "Diethylamine",
+    "Formula": "C4H11N",
+    "a": 19.4,
+    "b": 0.1383
+  },
+  {
+    "Name": "Tetramethylsilane",
+    "Formula": "C4H12Si",
+    "a": 20.81,
+    "b": 0.1653
+  },
+  {
+    "Name": "Furfural",
+    "Formula": "C5H4O2",
+    "a": 22.23,
+    "b": 0.1182
+  },
+  {
+    "Name": "Pyridine",
+    "Formula": "C5H5N",
+    "a": 19.77,
+    "b": 0.1137
+  },
+  {
+    "Name": "Cyclopentene",
+    "Formula": "C5H8",
+    "a": 15.61,
+    "b": 0.1097
+  },
+  {
+    "Name": "1-Pentene",
+    "Formula": "C5H10",
+    "a": 17.86,
+    "b": 0.137
+  },
+  {
+    "Name": "2-Methyl-1-butene",
+    "Formula": "C5H10",
+    "a": 16.9,
+    "b": 0.129
+  },
+  {
+    "Name": "2-Methyl-2-butene",
+    "Formula": "C5H10",
+    "a": 17.26,
+    "b": 0.1279
+  },
+  {
+    "Name": "Cyclopentane",
+    "Formula": "C5H10",
+    "a": 16.94,
+    "b": 0.118
+  },
+  {
+    "Name": "Tetrahydropyran",
+    "Formula": "C5H10O",
+    "a": 20.02,
+    "b": 0.1247
+  },
+  {
+    "Name": "Isobutyl formate",
+    "Formula": "C5H10O2",
+    "a": 22.82,
+    "b": 0.1476
+  },
+  {
+    "Name": "Propyl acetate",
+    "Formula": "C5H10O2",
+    "a": 26.23,
+    "b": 0.17
+  },
+  {
+    "Name": "Ethyl propanoate",
+    "Formula": "C5H10O2",
+    "a": 25.86,
+    "b": 0.1688
+  },
+  {
+    "Name": "Methyl butanoate",
+    "Formula": "C5H10O2",
+    "a": 25.83,
+    "b": 0.1661
+  },
+  {
+    "Name": "Methyl isobutanoate",
+    "Formula": "C5H10O2",
+    "a": 24.87,
+    "b": 0.1639
+  },
+  {
+    "Name": "Piperidine",
+    "Formula": "C5H11N",
+    "a": 20.84,
+    "b": 0.125
+  },
+  {
+    "Name": "Pentane",
+    "Formula": "C5H12",
+    "a": 19.13,
+    "b": 0.1451
+  },
+  {
+    "Name": "Isopentane",
+    "Formula": "C5H12",
+    "a": 18.29,
+    "b": 0.1415
+  },
+  {
+    "Name": "Neopentane",
+    "Formula": "C5H12",
+    "a": 17.17,
+    "b": 0.141
+  },
+  {
+    "Name": "1-Pentanol",
+    "Formula": "C5H12O",
+    "a": 25.81,
+    "b": 0.1564
+  },
+  {
+    "Name": "Bromobenzene",
+    "Formula": "C6H5Br",
+    "a": 28.96,
+    "b": 0.1541
+  },
+  {
+    "Name": "Chlorobenzene",
+    "Formula": "C6H5Cl",
+    "a": 25.8,
+    "b": 0.1454
+  },
+  {
+    "Name": "Fluorobenzene",
+    "Formula": "C6H5F",
+    "a": 20.1,
+    "b": 0.1279
+  },
+  {
+    "Name": "Iodobenzene",
+    "Formula": "C6H5I",
+    "a": 33.54,
+    "b": 0.1658
+  },
+  {
+    "Name": "Benzene",
+    "Formula": "C6H6",
+    "a": 18.82,
+    "b": 0.1193
+  },
+  {
+    "Name": "Phenol",
+    "Formula": "C6H5OH",
+    "a": 22.93,
+    "b": 0.1177
+  },
+  {
+    "Name": "Aniline",
+    "Formula": "C6H5NH2",
+    "a": 29.14,
+    "b": 0.1486
+  },
+  {
+    "Name": "Cyclohexanone",
+    "Formula": "C6H10O",
+    "a": 31.1,
+    "b": 0.17
+  },
+  {
+    "Name": "Hexanenitrile",
+    "Formula": "C6H11N",
+    "a": 35.5,
+    "b": 0.1996
+  },
+  {
+    "Name": "Cyclohexane",
+    "Formula": "C6H12",
+    "a": 21.95,
+    "b": 0.1413
+  },
+  {
+    "Name": "Cyclohexanol",
+    "Formula": "C6H11OH",
+    "a": 28.93,
+    "b": 0.1586
+  },
+  {
+    "Name": "Pentyl formate",
+    "Formula": "C6H12O2",
+    "a": 27.97,
+    "b": 0.173
+  },
+  {
+    "Name": "Isobutyl acetate",
+    "Formula": "C6H12O2",
+    "a": 29.05,
+    "b": 0.1845
+  },
+  {
+    "Name": "Ethyl butanoate",
+    "Formula": "C6H12O2",
+    "a": 30.53,
+    "b": 0.1922
+  },
+  {
+    "Name": "Ethyl 2-methylpropanoate",
+    "Formula": "C6H12O2",
+    "a": 29.05,
+    "b": 0.1872
+  },
+  {
+    "Name": "Methyl pentanoate",
+    "Formula": "C6H12O2",
+    "a": 29.39,
+    "b": 0.1847
+  },
+  {
+    "Name": "Hexane",
+    "Formula": "C6H14",
+    "a": 24.97,
+    "b": 0.1753
+  },
+  {
+    "Name": "2,3-Dimethylbutane",
+    "Formula": "C6H14",
+    "a": 23.29,
+    "b": 0.166
+  },
+  {
+    "Name": "1-Hexanol",
+    "Formula": "C6H14O",
+    "a": 31.35,
+    "b": 0.1829
+  },
+  {
+    "Name": "Triethylamine",
+    "Formula": "C6H15N",
+    "a": 27.59,
+    "b": 0.1836
+  },
+  {
+    "Name": "Dipropylamine",
+    "Formula": "C6H15N",
+    "a": 24.82,
+    "b": 0.1591
+  },
+  {
+    "Name": "Benzonitrile",
+    "Formula": "C7H5N",
+    "a": 33.89,
+    "b": 0.1727
+  },
+  {
+    "Name": "Benzaldehyde",
+    "Formula": "C7H6O",
+    "a": 30.3,
+    "b": 0.1553
+  },
+  {
+    "Name": "Toluene",
+    "Formula": "C7H8",
+    "a": 24.89,
+    "b": 0.1499
+  },
+  {
+    "Name": "o-Cresol",
+    "Formula": "C7H8O",
+    "a": 28.33,
+    "b": 0.1447
+  },
+  {
+    "Name": "m-Cresol",
+    "Formula": "C7H8O",
+    "a": 31.86,
+    "b": 0.1609
+  },
+  {
+    "Name": "p-Cresol",
+    "Formula": "C7H8O",
+    "a": 28.11,
+    "b": 0.1422
+  },
+  {
+    "Name": "Benzyl alcohol",
+    "Formula": "C7H8O",
+    "a": 34.7,
+    "b": 0.173
+  },
+  {
+    "Name": "Anisole",
+    "Formula": "C7H8O",
+    "a": 28.6,
+    "b": 0.1579
+  },
+  {
+    "Name": "Heptane",
+    "Formula": "C7H16",
+    "a": 30.89,
+    "b": 0.2038
+  },
+  {
+    "Name": "Heptanol",
+    "Formula": "C7H15OH",
+    "a": 37.22,
+    "b": 0.2097
+  },
+  {
+    "Name": "Ethylbenzene",
+    "Formula": "C8H10",
+    "a": 30.86,
+    "b": 0.1782
+  },
+  {
+    "Name": "o-Xylene",
+    "Formula": "C8H10",
+    "a": 31.06,
+    "b": 0.1756
+  },
+  {
+    "Name": "m-Xylene",
+    "Formula": "C8H10",
+    "a": 31.41,
+    "b": 0.1814
+  },
+  {
+    "Name": "p-Xylene",
+    "Formula": "C8H10",
+    "a": 31.54,
+    "b": 0.1824
+  },
+  {
+    "Name": "Phenetole",
+    "Formula": "C8H10O",
+    "a": 35.7,
+    "b": 0.1966
+  },
+  {
+    "Name": "N,N-Dimethylaniline",
+    "Formula": "C8H11N",
+    "a": 37.92,
+    "b": 0.1967
+  },
+  {
+    "Name": "Octane",
+    "Formula": "C8H18",
+    "a": 37.86,
+    "b": 0.2372
+  },
+  {
+    "Name": "2,5-Dimethylhexane",
+    "Formula": "C8H18",
+    "a": 35.49,
+    "b": 0.2299
+  },
+  {
+    "Name": "1-Octanol",
+    "Formula": "C8H18O",
+    "a": 43.42,
+    "b": 0.2371
+  },
+  {
+    "Name": "Quinoline",
+    "Formula": "C9H7N",
+    "a": 36.7,
+    "b": 0.1672
+  },
+  {
+    "Name": "Cumene",
+    "Formula": "C9H12",
+    "a": 36.2,
+    "b": 0.2044
+  },
+  {
+    "Name": "Propylbenzene",
+    "Formula": "C9H12",
+    "a": 37.14,
+    "b": 0.2073
+  },
+  {
+    "Name": "1,2,4-Trimethylbenzene",
+    "Formula": "C9H12",
+    "a": 38.03,
+    "b": 0.2088
+  },
+  {
+    "Name": "Mesitylene",
+    "Formula": "C9H12",
+    "a": 37.87,
+    "b": 0.2118
+  },
+  {
+    "Name": "Nonane",
+    "Formula": "C9H20",
+    "a": 45.11,
+    "b": 0.2702
+  },
+  {
+    "Name": "1-Nonanol",
+    "Formula": "C9H20O",
+    "a": 50,
+    "b": 0.2654
+  },
+  {
+    "Name": "Naphthalene",
+    "Formula": "C10H8",
+    "a": 40.32,
+    "b": 0.192
+  },
+  {
+    "Name": "Butylbenzene",
+    "Formula": "C10H14",
+    "a": 44.07,
+    "b": 0.2378
+  },
+  {
+    "Name": "Isobutylbenzene",
+    "Formula": "C10H14",
+    "a": 40.4,
+    "b": 0.2215
+  },
+  {
+    "Name": "o-Cymene",
+    "Formula": "C10H14",
+    "a": 42.7,
+    "b": 0.234
+  },
+  {
+    "Name": "p-Cymene",
+    "Formula": "C10H14",
+    "a": 45.27,
+    "b": 0.2478
+  },
+  {
+    "Name": "p-Diethylbenzene",
+    "Formula": "C10H14",
+    "a": 45.03,
+    "b": 0.2439
+  },
+  {
+    "Name": "1,2,4,5-Tetramethylbenzene",
+    "Formula": "C10H14",
+    "a": 45.8,
+    "b": 0.24
+  },
+  {
+    "Name": "Decane",
+    "Formula": "C10H22",
+    "a": 52.88,
+    "b": 0.3051
+  },
+  {
+    "Name": "1-Decanol",
+    "Formula": "C10H22O",
+    "a": 57.45,
+    "b": 0.2971
+  },
+  {
+    "Name": "Undecane",
+    "Formula": "C11H24",
+    "a": 60.88,
+    "b": 0.3396
+  },
+  {
+    "Name": "Biphenyl",
+    "Formula": "C12H10",
+    "a": 47.16,
+    "b": 0.213
+  },
+  {
+    "Name": "Dodecane",
+    "Formula": "C12H26",
+    "a": 69.14,
+    "b": 0.3741
+  },
+  {
+    "Name": "1-Dodecanol",
+    "Formula": "C12H26O",
+    "a": 72.69,
+    "b": 0.3598
+  },
+  {
+    "Name": "Diphenylmethane",
+    "Formula": "C13H12",
+    "a": 60.46,
+    "b": 0.2798
+  },
+  {
+    "Name": "Tridecane",
+    "Formula": "C13H28",
+    "a": 77.94,
+    "b": 0.4109
+  },
+  {
+    "Name": "1-Tridecanol",
+    "Formula": "C13H28O",
+    "a": 81.2,
+    "b": 0.3942
+  },
+  {
+    "Name": "1-Tetradecanol",
+    "Formula": "C14H30O",
+    "a": 89.91,
+    "b": 0.4289
+  },
+  {
+    "Name": "Pentadecane",
+    "Formula": "C15H32",
+    "a": 96.5,
+    "b": 0.4857
+  },
+  {
+    "Name": "Carbon Disulfide",
+    "Formula": "CS2",
+    "a": 11.77,
+    "b": 0.07685
+  },
+  {
+    "Name": "Hydrogen Sulfide",
+    "Formula": "H2S",
+    "a": 4.490,
+    "b": 0.04287
+  }
+]
