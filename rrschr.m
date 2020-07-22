@@ -3,11 +3,11 @@ clear
 clc
 % commandwindow
 ni=[-1 -2 1 2];
-Tf=875; %[K]
+Tf=850; %[K]
 Pf=101.325; %[kPa]
 Ff=[10 60 0 0]; %[mol.h^(-1)]
 R=8.314; %[J.mol^(-1).K^(-1)]
-[Vr,X]=ode15s(@reaktor,[0 10],[Ff Tf],[],ni,Tf,Pf,R,Ff);
+[Vr,X]=ode15s(@reaktor,[0 6],[Ff Tf],[],ni,Tf,Pf,R,Ff);
 F_CH4 = X(:,1);
 F_S2 = X(:,2);
 F_CS2 = X(:,3);
