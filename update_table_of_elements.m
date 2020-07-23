@@ -8,9 +8,14 @@ function update_table_of_elements()
 %
 %   SEE ALSO: UPDATE_TABLE_OF_CRITICAL_TEMPERATURE_ELEMENT, UPDATE_TABLE_OF_MOLAR_MASS, UPDATE_TABLE_OF_TEMPERATURES.
 %
-%   LAST UPDATE: 2020-04-26.
+%   LAST UPDATE: 2020-07-23.
 %
 global table_of_elements
-obj = urlread('https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON/?response_type=save&response_basename=PubChemElements_all');
-table_of_elements = jsondecode(obj);
+try
+    obj = urlread('https://pubchem.ncbi.nlm.nih.gov/rest/pug/periodictable/JSON/?response_type=save&response_basename=PubChemElements_all');
+    table_of_elements = jsondecode(obj);
+catch
+    disp(sprintf(' TROJ: Update faild! Please, chcek your Internet conection.'))
 end
+
+end % function
